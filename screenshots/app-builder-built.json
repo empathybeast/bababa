@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Паспорт окраса",
+      "hasCanvas": false,
+      "bodyTextLen": 578,
+      "bodyTextHash": "6b53cb77cb58e4e3e44a045c85918446278915fb32c633d05177b385f2e5cf1c",
+      "bodyTextPrefix": "ГЕНЕРАТОР ОПИСАНИЯ Паспорт окраса Соберите черты из списков — им",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Паспорт окраса",
+      "hasCanvas": false,
+      "bodyTextLen": 627,
+      "bodyTextHash": "a885e2eeda5bf163fe7c302b8f050fea6b2ce59d4bb52135e3dafa6b0a8e41b6",
+      "bodyTextPrefix": "ГЕНЕРАТОР ОПИСАНИЯ Паспорт окраса Соберите черты из списков — им",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
